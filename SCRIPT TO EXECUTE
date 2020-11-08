@@ -1,0 +1,1 @@
+scrapy crawl idealista -t csv -o BARCELONA-CITY.csv
